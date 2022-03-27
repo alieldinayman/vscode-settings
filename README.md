@@ -1,6 +1,6 @@
 ## Alieldin's VS Code Settings (<sub><sup>_+ Linting/Formatting Setup_</sub></sup>)
 
-one, care a lot about styling my code and maintaining a consistent and easy to read flow while programming. I created this repo for the purpose of unifying these preferences in one place, and also for allowing others with a similar passion for clean code to get their editors up and running the same way.
+I, for one, care a lot about styling my code and maintaining a consistent and easy to read flow while programming. I created this repo for the purpose of unifying these preferences in one place, and also for allowing others with a similar passion for clean code to get their editors up and running the same way.
 
 In this repo, you will find the settings, extensions, and the relative keybindings I use for **VS Code**, as well as my opinionated linting and formatting rules for **ESLint** and **Prettier** respectively.
 
