@@ -24,9 +24,9 @@ Finally, modify the linting/formatting rules found in `eslintrc.js` and `prettie
 
 **Optional**: You can also add the following commands to your `package.json` scripts:
 
-`"lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore --fix src"` &ndash; For checking any linting issues in all your files (_change file extensions accordingly_) using **ESLint**.
+-   `"lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore --fix src"` &ndash; -For checking any linting issues in all your files (_change file extensions accordingly_) using **ESLint**.
 
-`"format": "prettier . --write"` &ndash; For automatically formatting all your files using **Prettier**.
+-   `"format": "prettier . --write"` &ndash; For automatically formatting all your files using **Prettier**.
 
 <br>
 
