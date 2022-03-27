@@ -1,0 +1,40 @@
+{
+    "recommendations": [
+        // Coding Essentials
+        "GitHub.copilot",
+        "mikestead.dotenv",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "christian-kohler.path-intellisense",
+        "visualstudioexptteam.vscodeintellicode",
+        
+        // Editor Modifications
+        "eamodio.gitlens",
+        "adpyke.codesnap",
+        "wmaurer.vscode-jumpy",
+        "alefragnani.bookmarks",
+        "gruntfuggly.todo-tree",
+        "jasonlhy.hungry-delete",
+        "aaron-bond.better-comments",
+        "richie5um2.vscode-sort-json",
+        "alefragnani.project-manager",
+        "bierner.markdown-preview-github-styles",
+        
+        // Themes & Icons
+        "equinusocio.vsc-community-material-theme",
+        "pkief.material-icon-theme",
+        
+        // Frontend Tools
+        "antfu.vite",
+        "antfu.iconify",
+        "antfu.browse-lite",
+        "lokalise.i18n-ally",
+        
+        // Optional (Per Project)
+        "orta.vscode-jest",
+        "johnsoncodehk.volar",
+        "hollowtree.vue-snippets",
+        "bradlc.vscode-tailwindcss",
+        "ms-azuretools.vscode-docker",
+    ]
+}
