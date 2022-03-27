@@ -22,6 +22,14 @@ After that is done, familarize yourself with the keybindings and copy the conten
 
 Finally, modify the linting/formatting rules found in `eslintrc.js` and `prettierrc.js` respectively depending on your project/framework of choice, and you should be up and running.
 
+**Optional**: You can also add the following commands to your `package.json` scripts:
+
+`"lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore --fix src"` &ndash; For checking any linting issues in all your files (_change file extensions accordingly_) using **ESLint**.
+
+`"format": "prettier . --write"` &ndash; For automatically formatting all your files using **Prettier**.
+
+<br>
+
 **Happy Coding!**
 
 ## License
