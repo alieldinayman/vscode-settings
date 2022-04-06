@@ -44,4 +44,31 @@
     // Extension Settings
     "todo-tree.highlights.enabled": true,
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "better-comments.tags": [
+        {
+          "tag": "!",
+          "color": "#FF2D00",
+        },
+        {
+          "tag": "bug",
+          "color": "#FF2D00",
+        },
+        {
+          "tag": "?",
+          "color": "#3498DB",
+        },
+        {
+          "tag": "//",
+          "color": "#474747",
+          "strikethrough": true,
+        },
+        {
+          "tag": "todo",
+          "color": "#FF8C00",
+        },
+        {
+          "tag": "*",
+          "color": "#98C379",
+        },
+    ]
 }
