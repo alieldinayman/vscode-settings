@@ -8,6 +8,7 @@
     },
     "editor.cursorBlinking": "phase",
     "editor.cursorSmoothCaretAnimation": true,
+    "editor.detectIndentation": false,
     "editor.find.addExtraSpaceOnTop": false,
     "editor.formatOnSave": true,
     "editor.guides.bracketPairs": "active",
@@ -16,6 +17,7 @@
     "editor.renderLineHighlight": "all",
     "editor.rulers": [120],
     "editor.suggestSelection": "first",
+    "editor.tabSize": 4,
     "extensions.autoUpdate": "onlyEnabledExtensions",
     "extensions.ignoreRecommendations": false,
     "diffEditor.ignoreTrimWhitespace": false,
@@ -24,7 +26,7 @@
     },
     "git.autofetch": true,
     "git.confirmSync": false,
-    
+
     // Language Settings
     "javascript.referencesCodeLens.enabled": true,
     "javascript.referencesCodeLens.showOnAllFunctions": true,
@@ -40,35 +42,35 @@
     "[vue]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    
+
     // Extension Settings
     "todo-tree.highlights.enabled": true,
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "better-comments.tags": [
         {
-          "tag": "!",
-          "color": "#FF2D00",
+            "tag": "!",
+            "color": "#FF2D00"
         },
         {
-          "tag": "bug",
-          "color": "#FF2D00",
+            "tag": "bug",
+            "color": "#FF2D00"
         },
         {
-          "tag": "?",
-          "color": "#3498DB",
+            "tag": "?",
+            "color": "#3498DB"
         },
         {
-          "tag": "//",
-          "color": "#474747",
-          "strikethrough": true,
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true
         },
         {
-          "tag": "todo",
-          "color": "#FF8C00",
+            "tag": "todo",
+            "color": "#FF8C00"
         },
         {
-          "tag": "*",
-          "color": "#98C379",
-        },
+            "tag": "*",
+            "color": "#98C379"
+        }
     ]
 }
