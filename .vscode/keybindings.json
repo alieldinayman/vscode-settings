@@ -14,15 +14,6 @@
         "command": "editor.action.duplicateSelection"
     },
     {
-        "key": "shift+enter",
-        "command": "extension.jumpy-word"
-    },
-    {
-        "key": "Escape",
-        "command": "extension.jumpy-exit",
-        "when": "editorTextFocus && jumpy.isJumpyMode"
-    },
-    {
         "key": "ctrl+k",
         "command": "bookmarks.toggle",
         "when": "editorTextFocus"
@@ -41,4 +32,8 @@
         "key": "ctrl+o",
         "command": "workbench.action.gotoSymbol"
     },
+    {
+        "key": "alt+`",
+        "command": "workbench.action.switchWindow"
+    }
 ]
