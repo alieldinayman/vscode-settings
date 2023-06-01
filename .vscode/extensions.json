@@ -9,12 +9,13 @@
         "visualstudioexptteam.vscodeintellicode",
         
         // Editor Modifications
+        "vscodevim.vim",
+        "antfu.iconify",
         "eamodio.gitlens",
         "adpyke.codesnap",
-        "wmaurer.vscode-jumpy",
+        "antfu.browse-lite",
         "alefragnani.bookmarks",
         "gruntfuggly.todo-tree",
-        "jasonlhy.hungry-delete",
         "aaron-bond.better-comments",
         "richie5um2.vscode-sort-json",
         "alefragnani.project-manager",
@@ -22,18 +23,15 @@
         "tombonnike.vscode-status-bar-format-toggle",
         
         // Themes & Icons
-        "equinusocio.vsc-community-material-theme",
         "pkief.material-icon-theme",
+        "equinusocio.vsc-community-material-theme",
         
-        // Frontend Tools
+        // Optional (By Use Case)
+        "vue.volar",
         "antfu.vite",
-        "antfu.iconify",
-        "antfu.browse-lite",
-        "lokalise.i18n-ally",
-        
-        // Optional (Per Project)
         "orta.vscode-jest",
-        "johnsoncodehk.volar",
+        "lokalise.i18n-ally",
+        "vintharas.learn-vim",
         "hollowtree.vue-snippets",
         "bradlc.vscode-tailwindcss",
         "ms-azuretools.vscode-docker",
