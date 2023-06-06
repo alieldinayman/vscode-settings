@@ -2,12 +2,16 @@
     // Editor Settings
     "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
     "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "editorLineNumber.foreground": "#aaaaaa",
+        "editorLineNumber.activeForeground": "#ffffff"
+    },
     "editor.bracketPairColorization.enabled": true,
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
     "editor.cursorBlinking": "phase",
-    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSmoothCaretAnimation": "on",
     "editor.detectIndentation": false,
     "editor.find.addExtraSpaceOnTop": false,
     "editor.formatOnSave": true,
@@ -44,6 +48,8 @@
     },
 
     // Extension Settings
+    "vim.smartRelativeLine": true,
+    "vim.useSystemClipboard": true,
     "todo-tree.highlights.enabled": true,
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "better-comments.tags": [
