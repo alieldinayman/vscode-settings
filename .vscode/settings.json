@@ -47,9 +47,30 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
 
-    // Extension Settings
+    // Vim Settings
+    "vim.easymotion": true,
     "vim.smartRelativeLine": true,
     "vim.useSystemClipboard": true,
+    "vim.highlightedyank.enable": true,
+    "vim.leader": "<Space>",
+    "vim.normalModeKeyBindingsNonRecursive": [
+        // Faster navigation
+        {
+            "before": ["J"],
+            "after": ["5", "j"]
+        },
+        {
+            "before": ["K"],
+            "after": ["5", "k"]
+        },
+        // Traverse the sidebar
+        {
+            "before": ["H"],
+            "after": ["<C-w>", "h"]
+        }
+    ],
+    
+    // Extension Settings
     "todo-tree.highlights.enabled": true,
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "better-comments.tags": [
